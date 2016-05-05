@@ -18,12 +18,12 @@ img {
 	max-width: 100%
 }
 
-.title a {
+#title a {
 	text-transform: uppercase;
 	text-decoration: none;
 }
 
-.title a:hover {
+#title a:hover {
 	color: #FF5456;
 	font-weight: bolder;
 }
