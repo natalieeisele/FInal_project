@@ -70,7 +70,7 @@ h1 {
 	font-weight: bolder;
 }
 
-.#ther a:hover, #other a:active, #other a:focus, #other a.thispage {
+#other a:hover, #other a:active, #other a:focus, #other a.thispage {
 	text-decoration: none;
 }
 
